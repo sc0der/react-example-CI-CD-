@@ -1,6 +1,6 @@
 {
   "name": "testapp",
-  "homepage": "https://github.com/sc0der/react-github_deploy_key",
+  "homepage": "http://github.com/sc0der/react-github_deploy_key",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
