@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Salom Alif Tech
+          Alif Tech
         </a>
       </header>
     </div>
