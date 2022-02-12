@@ -25,4 +25,4 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm run build
-    - run: mv -rf /var/www/testing/actions-runner/alif_tech/react-example-CI-CD-/react-example-CI-CD-/build/ /home/sirius/www/data/testingReact/
+    - run: mv -r /var/www/testing/actions-runner/alif_tech/react-example-CI-CD-/react-example-CI-CD-/build/ /home/sirius/www/data/testingReact/
